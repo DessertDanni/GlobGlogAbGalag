@@ -1,0 +1,9 @@
+1. vse v odnom stile - Ci (vse scanf/printf, bez cin/cout); VVVVVVVVVVVVVVVVVVVV
+
+2. funcia vivoda samoi dorogoi knizhki (mathfuncia) VVVVVVVVVVVVVVVV
+
+3. ob'edenit poisk po avtoru i po nazvaniyu - сделать так, чтобы он ваще работал  VVVVVVVVVVVVVVV
+
+4. oshibka pri vihode za granici massiva VVVVVVVVVVVVVVVVV
+
+5. vivod oshibki pri nepravilnom imeni file VVVVVVVVVVVVVVVVVVVVVVVVVVV
