@@ -1,1 +1,1 @@
-# GlobGlogAbGalag
+# GlobGlogAbGalag (prime)
